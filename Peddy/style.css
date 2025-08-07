@@ -1,0 +1,33 @@
+.footer{
+    background-color: #131313;
+    color: white;
+}.input-neutral{
+    background-color: #1f1f1f;
+}.btn-neutral1{
+    background-color: #0e7a81;
+    color: white;
+    height: 40px;
+    width: 188px;
+}.headerText{
+    color: #727272;
+    font-size: 24px;
+    
+}.headerText1{
+    color: #131313;
+    font-size: 72px;
+    font-weight: 600;    
+}.adopt-text{
+    font-size: 40px;
+}.btnIcon{
+    height: 25px;
+    width: 25px;
+}.navBtn{
+    width: 108px;
+}.pet-card{
+    width: 280px;
+}.like-card{
+    width: 125px;
+    height: 125px;
+}.error-div{
+    width: 880px;
+}
